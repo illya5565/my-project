@@ -1,0 +1,39 @@
+.warning{
+    font-size: 10px;
+    color: aqua;
+}
+body{
+    background: skyblue;
+}
+.footer{
+    color: darkblue;
+    font-size: 20px;
+}
+hr{
+    background: blue;
+    height: 10px;
+    width: 80%;
+    border-radius: 10px;
+}
+a{
+    font-size: 50px;
+    text-decoration: none;
+    color: green;
+}
+h1{
+    font-size: 75px;
+}
+div{
+    display: inline-block;
+    padding: 50px;
+}
+main{
+    color: blue;
+}
+img{
+    height: 50px;
+}
+.mine{
+    width: 100px;
+    height: 100px;
+}
