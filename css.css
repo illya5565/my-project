@@ -37,3 +37,51 @@ img{
     width: 100px;
     height: 100px;
 }
+
+@media (max-width:467px){
+    p{
+        font-size: 12px;
+    }
+}
+
+@media (min-width:768px){
+    div{
+        padding: 40px;
+    }
+    a{
+        font-size: 40px;
+    }
+}
+
+@media (min-width:1024px){
+    img{
+        height: 70px;
+    }
+    a{
+        font-size: 40px;
+    }
+}
+
+@media (min-width:1440px){
+    p{
+        font-size: 30px;
+    }
+    h2{
+        font-size: 40px;
+    }
+    img{
+        height: 80px;
+    }
+}
+
+@media (min-width:2560px){
+    p{
+        font-size: 40px;
+    }
+    h2{
+        font-size: 50px;
+    }
+    img{
+        height: 100px;
+    }
+}
